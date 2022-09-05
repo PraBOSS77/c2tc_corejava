@@ -1,0 +1,5 @@
+com\example\demo\controller\CertificateController.class
+com\example\demo\exception\ResourceNotFoundException.class
+com\example\demo\model\Certificate.class
+com\example\demo\repository\CertificateRepository.class
+com\example\demo\CertificateApplication.class
